@@ -1,0 +1,46 @@
+1;Describe a Newtonian reflector and Schmidt-Cassegrain telescope?
+2;How does a CCD work?
+3;What is the PSF of a telescope or optical system?
+4;What is convolution?
+5;Convolve a top hat and a gaussian
+6;What is the FT of a dirac delta function
+7;What do stars have disks and jets?
+8;Describe the HR diagram
+9;Where has the Sun come from and where will it go
+10;What is hydrostatic equibrium?
+11;What is the scale height of the corona?
+12;Explain collisional excitation and radiative decay
+13;What is the coronal approximation?
+14;How does a gas-filled proportional counter (e.g., GOES) work?
+15;What are the primary series of Hydrogen?
+16;Explain the formation of Lyman-alpha
+17;Why do some stars have winds?
+18;Explain magnetic flux freezing.
+Why are sunspots dark?
+Why do sunspots appear depressed from the surface?
+Why do surface flows appear radially outward within a sunspot and radially outward in the region surrounding a sunspot?
+Sunspots. What is H- absorption, how does it work?
+Why are faculae only visible away from disk center?
+What will happen to our sun in the future?
+What is a brown dwarf?
+Which celestial bodies are powered by fusion?
+What causes a celestial body to be powered by fusion?
+How does the magnetic field vary from the solar surface outward?
+Expain how the solar cycle works?
+;What is the FIP effect? How does it affect the corona?
+;What layers of the sun are high/low beta (center outwards...) and what does this imply?
+MHD;Where does the induction equation come from?
+MHD;Explain the magnetic reynolds number, where does it come from, what does it imply?
+MHD;Explain the dynamic timescales of magnetic field evolution, where do they come from?
+Plasma physics;How does the alfven speed affect the dynamics within a plasma?
+Plasma physics;Explain plasma frequency. Why is there a characteristic frequency? What can it tell you about the plasma?
+Solar interior;What is the tachocline?
+Flares;Explain a/the basic flare model.
+Flares;Where does flare energy come from -> to accelerate particles to KeV, to MeV energies, to accelerate plasmoids, to heat nearby plasma... What is the flare energy budget?
+Solar Surface;What is the photosphere?
+Solar Atmosphere;What is the temperature minimum?
+Solar Atmosphere;What is the chromosphere?
+Solar Atmosphere;What is the chromospheric heating energy budget? What is thought to heat it?
+Solar Atmosphere;What is the transition zone?
+Solar Atmosphere;What is the corona?
+Solar Atmosphere;What is the coronal heating problem? What is the energy budget? What is thought to heat it?
